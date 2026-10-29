@@ -9,3 +9,4 @@ Git tracks changes to files and helps developers collaborate.
 - git commit: saves staged changes to local history.
 - git push: uploads local commits to a remote repository.
 - git pull: fetches and integrates remote changes.
+Conflict practice: Version B.
